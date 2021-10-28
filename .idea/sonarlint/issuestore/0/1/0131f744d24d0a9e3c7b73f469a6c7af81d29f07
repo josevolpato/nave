@@ -1,0 +1,54 @@
+
+k
+java:S1450%"URemove the "canvas" field and declare it as a local variable in the relevant methods.(Šïï
+P
+java:S2209B"5Change this instance-reference to a static reference.(Ã£§àıÿÿÿÿ
+G
+java:S1874G"1Remove this use of "SoundPool"; it is deprecated.(ùÙ‘
+<	java:S131p""Add a default case to this switch.(ú¯Ä÷øÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ô§ˆ‚ÿÿÿÿÿ
+R	java:S125í"<This block of commented-out lines of code should be removed.(ÿñÅû
+z
+java:S2142¤"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÖÅ×ÿÿÿÿÿ
+Q
+java:S2209¢"5Change this instance-reference to a static reference.(¿È–Œùÿÿÿÿ
+z
+java:S2142±"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÖÅ×ÿÿÿÿÿ
+D	java:S108²")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+K
+java:S1066˜"/Merge this if statement with the enclosing one.(õ´ÈÍıÿÿÿÿ
+F
+java:S1066¡"/Merge this if statement with the enclosing one.(”ÃÃÃ
+f
+java:S1301p"KReplace this "switch" statement by "if" statements to increase readability.(ú¯Ä÷øÿÿÿÿ
+]
+java:S2184ç"ACast one of the operands of this addition operation to a "float".(å†–âøÿÿÿÿ
+X
+java:S2184è"ACast one of the operands of this addition operation to a "float".(ÖõœÎ
+X
+java:S2184é"ACast one of the operands of this addition operation to a "float".(†¤­¹
+X
+java:S2184é"ACast one of the operands of this addition operation to a "float".(†¤­¹
+]
+java:S2184ˆ"ACast one of the operands of this division operation to a "float".(ŒÜËºøÿÿÿÿ
+X
+java:S2184‰"ACast one of the operands of this division operation to a "float".(Öîöé
+[
+java:S2184‰"DCast one of the operands of this subtraction operation to a "float".(Öîöé
+[
+java:S2184Š"DCast one of the operands of this subtraction operation to a "float".(ÅÃÙö
+^
+java:S2184‹"GCast one of the operands of this multiplication operation to a "float".(ËÁÏ©
+[
+java:S2184‹"DCast one of the operands of this subtraction operation to a "float".(ËÁÏ©
+X
+java:S2184‘"ACast one of the operands of this division operation to a "float".(™Â“
+X
+java:S2184“"ACast one of the operands of this division operation to a "float".(®­¨„
+]
+java:S2184”"ACast one of the operands of this division operation to a "float".(îŸåÛûÿÿÿÿ
+]
+java:S2184•"ACast one of the operands of this division operation to a "float".(Ò¤º¿ıÿÿÿÿ
+]
+java:S2184—"ACast one of the operands of this division operation to a "float".(’—‰Ïşÿÿÿÿ
